@@ -10,9 +10,8 @@ cd {insert path here}
 
 #Functional Commands
 
-archivebox add '$1'
+archivebox add "$srcurl"
 
 echo "Url Added To Archivebox"
 
 #Program End
-
