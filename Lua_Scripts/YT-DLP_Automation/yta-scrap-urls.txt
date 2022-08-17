@@ -1,3 +1,4 @@
 
 cd {Back Catalog Directory} && yt-dlp --write-description --write-info-json --embed-metadata --embed-thumbnail --playlist-reverse --download-archive uwu.txt  -x --audio-format vorbis   --audio-quality 64k {Podcast Preset}
 cd {Back Catalog Directory} && yt-dlp --write-description --write-info-json --embed-metadata --embed-thumbnail --playlist-reverse --download-archive uwu.txt  -x --audio-format flac --audio-quality 0  {Music Preset}
+cd {Back Catalog Directory} && yt-dlp --write-description --write-info-json --embed-metadata --embed-thumbnail --playlist-reverse --download-archive uwu.txt {General Video Preset}
