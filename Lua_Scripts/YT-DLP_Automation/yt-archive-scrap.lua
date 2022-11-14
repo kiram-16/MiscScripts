@@ -8,6 +8,4 @@ end
 --Post Script Cleanup
 print("Scrape Completed")
 
-collectgarbage("collect")
-
 -- Program End
